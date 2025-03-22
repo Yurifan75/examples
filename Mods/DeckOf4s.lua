@@ -9,10 +9,10 @@
 ------------MOD CODE -------------------------
 
 SMODS.Back{
-    name = "Deck of fours",
+    name = "Deck of seven",
     key = "fours",
     pos = {x = 1, y = 3},
-    config = {only_one_rank = '4'},
+    config = {only_one_rank = '7'},
     loc_txt = {
         name ="Deck of fours",
         text={
